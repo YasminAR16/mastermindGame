@@ -1,0 +1,2 @@
+# mastermindGame
+First your opponent (i.e. the computer generate the target number) selects a four-digit number. Each of the digits in this number is guaranteed to be unique; further- more the first digit will never be a zero. The player then repeatedly guesses four digit numbers that must be unique (with the same properties as the target number) until correct. When user input is being asked, it appears in a pop-up window. However, the feedback and results of the game are shown in the I/O window.
